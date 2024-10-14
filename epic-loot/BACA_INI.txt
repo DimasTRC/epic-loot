@@ -1,0 +1,30 @@
+Koneksikan komputer ke internet, agar tidak ada konten yang missing.
+
+- Membuat Database :
+1. Create database dengan nama "shop_db"
+2. Lalu import "shop_db.sql" yang terletak di dalam folder uts-web
+
+- Membuka Website : 
+1. Letakkan folder "uts-web" di dalam folder xampp/htdocs
+2. Buka browser, ketikkan "localhost/uts-web"
+
+- Akun :
+Admin memiliki akses yang hanya bisa dilakukan admin
+username : admin
+password : 123
+
+User dapat mengakses halaman yang dibuat untuk kebutuhan user
+username : user
+password : 123
+
+username : user02
+password : 123
+
+*Bisa juga lakukan register untuk user baru
+
+- Bisa juga kunjungi link berikut :
+http://epic-loot.rf.gd/
+
+(Website ini aman. Jika browser mengira website nya berbahaya, cukup klik details lalu klik "this unsafe site".)
+*bisa juga dengan membuka nya di incognito window
+*hal ini karena belum mendapat sertifikat SSL
